@@ -59,39 +59,33 @@ const askQuestions = inquirer.prompt(
    
    ## Table of Contents 
    
-   1. [Installation](#install)
+   1. [Installation](#installation)
    2. [Usage](#usage)
    3. [License](#license)
-   4. [How to Contribute](#contribute)
+   4. [How to Contribute](#how-to-contribute)
    5. [Tests](#tests)
    6. [Questions](#questions)
    
-   <a id="install"></a>
    ## Installation
    
    ${response.installation}
    
-   <a id="usage"></a>
    ## Usage
    
    ${response.usage}
    
-   <a id="license"></a>
    ## License
    
    ${response.license}
 
-   <a id="contribute"></a>
    ## How to Contribute
 
    (https://www.contributor-covenant.org/)
 
-   <a name="tests"></a>
    ## Tests
 
    ${response.tests}
 
-   <a name="questions"></a>
    ## Questions
 
    For any additional questions, please contact me:
